@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Hola soy Ariana" 
+=======
+"Adios" 
+>>>>>>> v0.2
